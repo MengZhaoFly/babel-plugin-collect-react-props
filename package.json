@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-collect-react-props",
+  "version": "1.0.0",
+  "description": "a plugin help you collect react application props",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MengZhaoFly/babel-plugin-collect-react-props.git"
+  },
+  "keywords": [
+    "babel",
+    "react"
+  ],
+  "author": "mengzhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MengZhaoFly/babel-plugin-collect-react-props/issues"
+  },
+  "homepage": "https://github.com/MengZhaoFly/babel-plugin-collect-react-props#readme"
+}
